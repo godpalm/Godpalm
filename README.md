@@ -1,6 +1,7 @@
 # 🌴 About Me:
-i'm a computer engineer working with a fullstack web applications.
+I'm a Computer Engineer focused on building modern full-stack web applications.
 
+I enjoy creating scalable systems, clean user experiences, and software that solves real-world problems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.cypaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chayapat2320@gmail.com) 
@@ -11,8 +12,5 @@ i'm a computer engineer working with a fullstack web applications.
 ![](https://github-readme-stats.shion.dev/api?username=godpalm&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=godpalm&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=godpalm&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=godpalm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
